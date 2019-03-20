@@ -11,15 +11,20 @@
 > - pwd命令：查看当前所在的路径。
 > - ls：查看当前路径下文文件。（后面跟 -l ：查看详细信息；-h：显示文件的大小）
 ####  路径的切换
+
 ![路径的切换](https://upload-images.jianshu.io/upload_images/7563229-ff3a1891bdfea8c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 #### 目录结构
+
 - ![目录结构详细表1](https://upload-images.jianshu.io/upload_images/7563229-061d4b1bfeb07adf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ![目录结构详细表1](https://upload-images.jianshu.io/upload_images/7563229-ea9b2d3a08992558.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 - 用vim编辑网页，名为index.html,并输入ls –l查看里面的内容：
+
 ![编辑文件1.png](https://upload-images.jianshu.io/upload_images/7563229-39f75df766f495da.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 - 拷贝、更名与删除文件：
+
 ![拷贝1.png](https://upload-images.jianshu.io/upload_images/7563229-8975f011e7b28982.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
