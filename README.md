@@ -1,7 +1,7 @@
 ### 基础知识提前看
 ![image.png](https://upload-images.jianshu.io/upload_images/7563229-ab3da8786b443994.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- 新建学号+姓名（以学号和姓名为例）：
+#### 新建学号+姓名（以学号和姓名为例）：
 > - 首先登陆进去的是要用root
 > - 添加一个用户要用：useradd+名字；passwd+名字
 
