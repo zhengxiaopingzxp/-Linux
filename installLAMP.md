@@ -11,8 +11,11 @@ PhpMyAdmin 的缺点是必须安装在 Web 服务器中，所以如果没有合�
 
 ### 安装软件
 > （1）安装LAMP[root@centos7 ~]# yum install httpd  php  mariadb-server –y
+
 > （2）安装php链接数据库的扩展程序包[root@centos7 ~]# yum install php-mysql
+
 > （3）安装支持多字节字符串扩展的程序包[root@centos7 ~]# yum install php-mbstring -y
+
 > （4）安装支持多加密扩展的程序包[root@centos7 ~]# yum install php-mcrypt –y
 
 ![1.png](https://upload-images.jianshu.io/upload_images/7563229-818a7c0aa1af3f16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
