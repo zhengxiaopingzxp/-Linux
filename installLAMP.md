@@ -74,5 +74,6 @@ PhpMyAdmin 的缺点是必须安装在 Web 服务器中，所以如果没有合�
 ###### 安装好后，/etc/httpd/conf.d/下应该有ssl.conf
 ![13.png](https://upload-images.jianshu.io/upload_images/7563229-ad34051c4b248a05.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+
 ###### Wordpress成功搭建
 ![14.png](https://upload-images.jianshu.io/upload_images/7563229-d6f33127c9df0dd8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
