@@ -65,9 +65,7 @@ q：退出
 - **-w：**只显示字数。一个字被定义为由空白、空格或换行字符分隔的字符串。
 - **-l：**只显示行
 
-
 ![image.png](https://upload-images.jianshu.io/upload_images/7563229-2508c2a949583e5a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-##### 知识的补充：
+#### 知识的补充：
 ###### Vim编辑器
 ![编辑器命令](https://upload-images.jianshu.io/upload_images/7563229-d9cfd32d2e34aae3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
