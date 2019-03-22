@@ -48,6 +48,7 @@ c：设备文件，提供串行的接口设备--键盘，鼠标。
   rw-=4+2=6
   r--=4
   r-x=4+1=5
+  
 
 ![原先权限](https://upload-images.jianshu.io/upload_images/7563229-bfad515d68414ccf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
