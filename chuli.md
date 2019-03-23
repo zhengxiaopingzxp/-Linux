@@ -58,7 +58,4 @@
 ③若删除源文件，则软链接就不能使用
 ④若创建软链接，则需要写绝对路径，否则可能跨目录操作会报错，创建软链接后所指向的源文件会出现红色背景的标识（硬链接无此限制）
 
-![image](//upload-images.jianshu.io/upload_images/4866277-e762eeee8addcda8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/653/format/webp)
-
-![image](//upload-images.jianshu.io/upload_images/4866277-f4c9f09813913274.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/671/format/webp)
-
+![文件](https://upload-images.jianshu.io/upload_images/7563229-77f9d4e8f7a9c969.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
