@@ -51,7 +51,7 @@ X:父进程获取了子进程的结构，子进程可以完全释放，该状态
 
 	3、监控进程（守护进程）：Linux系统启动时，启动的进程，并且在后台运行
 
-- **作业：**一个正在执行的进程，而且作业可以包含一个或多个进程。
+-   **作业：**  一个正在执行的进程，而且作业可以包含一个或多个进程。
 
 > 作业控制：控制正在运行的进程的行为。如：挂起一个进程，等一会在执行。这样用户就可以再多个作业之间切换。
 
@@ -63,7 +63,7 @@ X:父进程获取了子进程的结构，子进程可以完全释放，该状态
 	ctrl+c：中断
 	ctrl+z：挂起
 
-**案例：**date ; sleep 5 ; date
+  **案例：**  date ; sleep 5 ; date
 ![延迟](https://upload-images.jianshu.io/upload_images/7563229-9be3f2dc14158364.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![图片.png](https://upload-images.jianshu.io/upload_images/7563229-635cd476646b541f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -89,10 +89,10 @@ X:父进程获取了子进程的结构，子进程可以完全释放，该状态
 ![图片.png](https://upload-images.jianshu.io/upload_images/7563229-12b0a3b20b2faf77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ##### Linux中断进程
-- **信号：**传递给Linux进程的操作
+-  **信号：**  传递给Linux进程的操作
 > kill –l 显示可以传递给Linux进程的所有信号
 
-- **常用：**
+-  **常用：** 
 
 
 
