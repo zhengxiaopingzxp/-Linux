@@ -48,8 +48,32 @@ c：设备文件，提供串行的接口设备--键盘，鼠标。
   rw-=4+2=6
   r--=4
   r-x=4+1=5
-  
 
 ![原先权限](https://upload-images.jianshu.io/upload_images/7563229-bfad515d68414ccf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![追加权限](https://upload-images.jianshu.io/upload_images/7563229-f76ca46c5d01139c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+##### 默认权限-umask
+![默认权限](https://upload-images.jianshu.io/upload_images/7563229-095232be32009071.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+> 普通用户：002
+> Root：022
+##### *文件的特殊权限-SUID SGID SBIT
+![文件权限](https://upload-images.jianshu.io/upload_images/7563229-a8e7e5947506a258.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 当s出现在拥有者的x权限位置时候，表示拥有者有SUID的权限（Set UID）
+- 当s出现在所属组的x权限位置时候，表示所属组有SGID的权限（Set GID）
+- 当t出现在其他人的x权限位置时候，表示其他人有SBIT的权限（Sticky Bit）
+> - SUID，临时获取文件拥有者的权限—只能针对文件
+
+> - SGID，即使可以作用于目录，也可以作用于文件
+              作用于文件：SUID一样
+              作用于目录：继承父集目录—目录会不停的继承
+
+> - SBIT指的是，只有文件的拥有者，才能删除，修改该目录下的文件—只能针对目录，只能在其他人的位置上进行修改
+
+> S和T都有大写和小写之分
+大写说明：没有x权限
+小写说明：有x权限
+SUID=4 SGID=2 SBIT=1
+
+
