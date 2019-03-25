@@ -40,7 +40,6 @@
 *注：引号“”是不用输入的。*
 
 ![定向举](https://upload-images.jianshu.io/upload_images/7563229-af5e31e29da6d3b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-[图片上传中...(image.png-64df00-1553498689895-0)]
 ### 管道符
 - 字符：｜。这就是管道符。
 > 作用有两个：
