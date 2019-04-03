@@ -35,9 +35,16 @@ ssh-keygen  -t   rsa        并为进入的文件设置key（设定是zxp）
 
 
 ![修改文件内容](https://upload-images.jianshu.io/upload_images/7563229-e4144f3e98fa7a5d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 ![修改文件内容1](https://upload-images.jianshu.io/upload_images/7563229-f753905f17954c1e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 ![修改文件内容2](https://upload-images.jianshu.io/upload_images/7563229-fe9714b34484fc15.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 ![修改文件内容3](https://upload-images.jianshu.io/upload_images/7563229-ddc2f3db1e088ad7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ###### 11、重启服务器：
 ![重启服务](https://upload-images.jianshu.io/upload_images/7563229-12045284d36cfb22.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ###### 12、用客户机登录到对方的服务器：
