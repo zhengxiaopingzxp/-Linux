@@ -32,6 +32,8 @@ ssh-keygen  -t   rsa        并为进入的文件设置key（设定是zxp）
 ![修改配置文件](https://upload-images.jianshu.io/upload_images/7563229-663edc111260d326.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ###### 10、如以下命列：
 ![](https://upload-images.jianshu.io/upload_images/7563229-f032a441c890b4a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 ![修改文件内容](https://upload-images.jianshu.io/upload_images/7563229-e4144f3e98fa7a5d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![修改文件内容1](https://upload-images.jianshu.io/upload_images/7563229-f753905f17954c1e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![修改文件内容2](https://upload-images.jianshu.io/upload_images/7563229-fe9714b34484fc15.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
