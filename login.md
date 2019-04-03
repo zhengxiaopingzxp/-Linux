@@ -63,3 +63,5 @@ ssh-keygen  -t   rsa        并为进入的文件设置key（设定是zxp）
 ![](https://upload-images.jianshu.io/upload_images/7563229-0036873c9d8fc7e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ###### 16、以上步骤完成后再双击自己新建的会话，便可以直接进入：
 ![](https://upload-images.jianshu.io/upload_images/7563229-67901981e5a27ec7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 整个过程如上所述。
