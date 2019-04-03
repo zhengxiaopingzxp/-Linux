@@ -9,6 +9,8 @@
 ![登录](https://upload-images.jianshu.io/upload_images/7563229-68c5da0943aba778.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ###### 3、SSH密钥（非对称）登录
 - （1）要先登陆：PuTTYPortable.exe（整个过程要准备两个PuTTYPortable.exe，一个作为客户机登陆，一个是用来登陆自己的服务器）
+
+
 ![登录PUTTY](https://upload-images.jianshu.io/upload_images/7563229-d4efd94c87840e16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 - （2）登陆客户机生成密钥对：
 ssh-keygen  -t   rsa        并为进入的文件设置key（设定是zxp）
